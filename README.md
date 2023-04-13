@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Sagnik.
+I'm currently learning.
 <!--
 **Sagnik-SB/Sagnik-SB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
